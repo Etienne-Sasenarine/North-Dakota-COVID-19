@@ -1,4 +1,4 @@
-# North Dakota COVID-19 Response Analysis and SIR Model
+# North Dakota's COVID-19 Response Analysis
 
 ## Overview  
 This project models North Dakota’s unsucessful response to the COVID-19 pandemic using the **Susceptible, Infectious, Recovered (SIR)** model. It applies optimization techniques to predict and quantify the effects of key public health measures and determine which of these government implemented policies had the greatest impact on the states' failed recovery.
